@@ -1,20 +1,5 @@
-```
- ██████╗██╗      █████╗ ██╗   ██╗████████╗ ██████╗ ███╗   ██╗
-██╔════╝██║     ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗  ██║
-██║     ██║     ███████║ ╚████╔╝    ██║   ██║   ██║██╔██╗ ██║
-██║     ██║     ██╔══██║  ╚██╔╝     ██║   ██║   ██║██║╚██╗██║
-╚██████╗███████╗██║  ██║   ██║      ██║   ╚██████╔╝██║ ╚████║
- ╚═════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
+### Clayton
 
-$ whoami
-clayton
-
-$ cat focus.txt
-security / systems / ai
-
-$ cat creed.txt
-break it to understand it.
-build it so it holds.
-```
+Security, systems, and applied AI.
 
 [LinkedIn](https://linkedin.com/in/clayton-wenzel)
