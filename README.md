@@ -1,7 +1,20 @@
-# Clayton Wenzel
+```
+ ██████╗██╗      █████╗ ██╗   ██╗████████╗ ██████╗ ███╗   ██╗
+██╔════╝██║     ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗████╗  ██║
+██║     ██║     ███████║ ╚████╔╝    ██║   ██║   ██║██╔██╗ ██║
+██║     ██║     ██╔══██║  ╚██╔╝     ██║   ██║   ██║██║╚██╗██║
+╚██████╗███████╗██║  ██║   ██║      ██║   ╚██████╔╝██║ ╚████║
+ ╚═════╝╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
 
-**Security. Systems. AI.**
+$ whoami
+clayton
 
-Break it to understand it. Build it so it holds.
+$ cat focus.txt
+security / systems / ai
 
-[linkedin.com/in/clayton-wenzel](https://linkedin.com/in/clayton-wenzel)
+$ cat creed.txt
+break it to understand it.
+build it so it holds.
+```
+
+[LinkedIn](https://linkedin.com/in/clayton-wenzel)
