@@ -1,7 +1,7 @@
-## Clayton Wenzel
+# Clayton Wenzel
 
-Cybersecurity. Computer Science. Applied AI.
+**Security. Systems. AI.**
 
-Currently working on security projects and AI in medicine.
+Break it to understand it. Build it so it holds.
 
-[LinkedIn](https://linkedin.com/in/clayton-wenzel)
+[linkedin.com/in/clayton-wenzel](https://linkedin.com/in/clayton-wenzel)
